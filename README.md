@@ -2,7 +2,7 @@
 
 ## Introduction to Javascript
 
-### Aqui está meu primeiro aprendizado em Javascript apresentado pelo Rafael Galeani através da Digital Innovation One.
+### Aqui está meu primeiro aprendizado em Javascript apresentado pelo Rafael Galleani através da Digital Innovation One.
 
 
 
